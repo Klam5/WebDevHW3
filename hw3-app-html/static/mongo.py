@@ -5,7 +5,7 @@ import os
 from dotenv import load_dotenv
 
 
-load_dotenv()
+# load_dotenv()
 #
 
 # Replace the uri string with your MongoDB deployment's connection string.
